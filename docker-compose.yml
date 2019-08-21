@@ -1,6 +1,7 @@
 version: '3.3'
 services:
   wp-client:
+    container_name: containername
     image: wp-image
     ports:
       - "8000:80"
