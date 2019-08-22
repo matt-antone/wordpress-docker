@@ -2,7 +2,10 @@
 
 ## Features
 
-1. WordPress
+1. WordPress - latest - Locked to the version used to create image.
+1. PHP 7.2
+1. MySQL 5.7
+1. Apache - latest - Locked to the version used to create image.
 1. Git
 1. NodeJS
 1. NPM
